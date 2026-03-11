@@ -8,7 +8,7 @@ export const siteConfig = {
   tagline: "Connect. Learn. Inspire. Grow.",
   description:
     "A thriving community connecting Platform Engineering experts, Release Engineers, DevSecOps professionals, Cloud & SRE practitioners, and tech entrepreneurs to share knowledge and drive innovation.",
-  email: "contact@gpen.dev",
+  email: "chennaiplatformengg@gmail.com",
   meetupUrl: "https://www.meetup.com/global-platform-engineers-network-gpen",
   linkedinUrl: "https://www.linkedin.com/company/global-platform-engineers-network/",
   instagramUrl: "https://www.instagram.com/platformenggchennai",
@@ -70,17 +70,6 @@ export const events: Event[] = [
     image: "/events/q4_2025_event.png",
     tags: ["Kubernetes", "Enterprise", "AI"],
     youtubeUrl: "https://www.youtube.com/live/zVisGlnB5sg?si=u9xmtcy5xAKtdbH6",
-    isUpcoming: false,
-  },
-  {
-    id: "3",
-    title: "Kubernetes Day — Scaling for the Enterprise",
-    date: "February 10, 2026",
-    location: "New York, NY",
-    description:
-      "Deep dive into enterprise Kubernetes patterns, multi-tenancy, and platform abstractions.",
-    image: "/events/q1_2026_event.jpg",
-    tags: ["Kubernetes", "Enterprise", "Networking"],
     isUpcoming: false,
   },
 ];
