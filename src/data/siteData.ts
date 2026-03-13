@@ -86,7 +86,7 @@ export const galleryImages = [
 ];
 
 export const stats = [
-  { label: "Community Members", value: "1350+" },
+  { label: "Community Members", value: "1400+" },
   { label: "Events Hosted", value: "10+" },
   { label: "Speakers Featured", value: "20+" },
 ];
