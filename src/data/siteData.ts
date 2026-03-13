@@ -57,7 +57,7 @@ export const events: Event[] = [
       "Event Description",
     image: "/events/q1_2026_event.jpg",
     tags: ["Cloud Native", "Workload APIs", "EaaS"],
-    registrationUrl: "https://www.meetup.com/global-platform-engineers-network-gpen/events/313356071/?eventOrigin=group_events_list",
+    registrationUrl: "https://www.meetup.com/global-platform-engineers-network-gpen/events/313356071/",
     isUpcoming: true,
   },
   {
